@@ -1,6 +1,5 @@
 # Realtime Chat Application
-
-![Video Chat](https://i.ibb.co/7WZRLD1/122.jpg)
+using react.js, express.js, node.js, socket.io, heroku, netlify
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
